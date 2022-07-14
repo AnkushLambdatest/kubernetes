@@ -12,6 +12,6 @@ postMerge:
   pattern:
     # glob-patterns to discover tests to run in case of postMerge
     - ""
-tier: medium
+tier: large
 #test
 
